@@ -18,7 +18,7 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
     $(".preloader").addClass("preloader-finish");
     $("body").removeClass("loading");
     // 3 letter Month, Date, Year & Hour:Minute:Second, id-of-element-container !!Experience!!
-    countUpFromTime("Mar 14, 2018 12:00:00", 'dynamicYearsMonths');
+    countUpFromTime("Jun 01, 2017 12:00:00", 'dynamicYearsMonths');
 });
 
 
